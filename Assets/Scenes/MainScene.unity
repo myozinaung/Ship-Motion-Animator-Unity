@@ -159,7 +159,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.81, y: 0}
+  m_AnchoredPosition: {x: 6.6, y: 0}
   m_SizeDelta: {x: 8, y: 7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &3054202
@@ -3196,7 +3196,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 50}
-  m_SizeDelta: {x: 570, y: 220}
+  m_SizeDelta: {x: 574, y: 220}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &324272932
 MonoBehaviour:
@@ -3288,7 +3288,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 130
+  m_text: 125
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -5550,7 +5550,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 140
+  m_text: 130
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -6880,7 +6880,7 @@ MonoBehaviour:
   AxisLB: {fileID: 1591868543}
   AxisU1: {fileID: 1224774811}
   AxisL1: {fileID: 1719075032}
-  yUB: 5
+  yUB: 3
   yLB: -1
   lineVertexCount: 3000
   timeRange: 4
@@ -8045,7 +8045,7 @@ MonoBehaviour:
   dataPath: spectrum.csv
   cam: {fileID: 193643196}
   spectrum: {fileID: 982133849}
-  S_scale: 0.7
+  S_scale: 0.9
   Omega_scale: 5
 --- !u!1 &985903230
 GameObject:
@@ -8610,7 +8610,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1039105963}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1000, y: 0, z: 0}
+  m_LocalPosition: {x: 3000, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 393873690}
@@ -9651,7 +9651,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 2
+  m_text: 1
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -10612,8 +10612,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -2.5, y: 0}
-  m_SizeDelta: {x: 8, y: 7}
+  m_AnchoredPosition: {x: -1.98, y: 0}
+  m_SizeDelta: {x: 10, y: 7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1376208994
 MonoBehaviour:
@@ -10637,12 +10637,12 @@ MonoBehaviour:
 
     Beaufort No.
 
-    Wave Height:
+    Significant Wave Height:
 
+    Mean
     Wave Period:
 
-    Wind
-    Speed:
+    Wind Speed:
 
     Wind & Wave Dir: '
   m_isRightToLeft: 0
@@ -10714,10 +10714,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1376208994}
-    characterCount: 83
+    characterCount: 100
     spriteCount: 0
-    spaceCount: 14
-    wordCount: 13
+    spaceCount: 16
+    wordCount: 15
     linkCount: 0
     lineCount: 6
     pageCount: 1
@@ -12321,7 +12321,7 @@ MonoBehaviour:
   AxisLB: {fileID: 174921599}
   AxisU1: {fileID: 1132413822}
   AxisL1: {fileID: 2143439099}
-  yUB: 140
+  yUB: 130
   yLB: 120
   lineVertexCount: 3000
   timeRange: 4
@@ -14803,7 +14803,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 5
+  m_text: 3
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}

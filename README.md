@@ -1,4 +1,4 @@
-# OceanWave
+# Ship Motion Animator (OceanWave)
 Ship Motion Animator
 
 Demo Video
